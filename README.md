@@ -8,4 +8,7 @@
 6) [Differential Calculus of Vector fields](http://www.feynmanlectures.caltech.edu/II_02.html)
 7) [Vector Integrals](http://www.feynmanlectures.caltech.edu/II_03.html#Ch3-S1)  
 
-Source Website - [http://www.feynmanlectures.caltech.edu/](http://www.feynmanlectures.caltech.edu/)
+Source Website - [http://www.feynmanlectures.caltech.edu/](http://www.feynmanlectures.caltech.edu/)  
+
+Note - Please create a pull request in case you find some topic on the website that is missing in the repo.  
+Also check out the projects from my Portfolio if you want to work on Machine Learning Projects - https://jaintj95.github.io/
