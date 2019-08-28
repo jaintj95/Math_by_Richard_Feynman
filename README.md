@@ -11,4 +11,5 @@
 Source Website - [http://www.feynmanlectures.caltech.edu/](http://www.feynmanlectures.caltech.edu/)  
 
 Note - Please create a pull request in case you find some topic on the website that is missing in the repo.  
-Also check out the projects from my Portfolio if you want to work on Machine Learning Projects - https://jaintj95.github.io/
+
+Also check out projects from my Portfolio if you want to work on Machine Learning Projects - https://jaintj95.github.io/
