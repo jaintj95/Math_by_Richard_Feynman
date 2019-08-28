@@ -1,4 +1,4 @@
-# Math Lectures by Richard Feynman
+# Math Lectures by Prof. Richard Feynman
   
 1) [Probability](http://www.feynmanlectures.caltech.edu/I_06.html)
 2) [Vectors](http://www.feynmanlectures.caltech.edu/I_11.html) 
